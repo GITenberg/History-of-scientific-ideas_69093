@@ -1,0 +1,30 @@
+_repo: History-of-scientific-ideas_69093
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whewell, William
+    alias: Whewell, W. (William)
+    birthdate: 1794
+    deathdate: 1866
+    gutenberg_agent_id: '38180'
+    url: http://www.gutenberg.org/2009/agents/38180
+    wikipedia: https://en.wikipedia.org/wiki/William_Whewell
+description: ''
+gutenberg_issued: '2022-10-04'
+identifiers:
+  gutenberg: '69093'
+language: en
+pgterms:marc904: 'https://archive.org/details/historyofscienti01whewrich/page/n7/mode/2up   Vol.
+  2: https://archive.org/details/historyscientif03whewgoog/page/n8/mode/2up'
+pgterms:marc905: 20220808181959whewell
+pgterms:marc906: '1858'
+pgterms:marc907: GB
+production_note: Ed Brandon from materials generously provided by the Internet Archive
+publication_note: United Kingdom :JOHN W. PARKER AND SON,1858.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: History of scientific ideas
+url: http://www.gutenberg.org/ebooks/69093
